@@ -1,0 +1,34 @@
+[
+    {
+        "timestamp": "2026-05-19 21:11:24.112776",
+        "endpoint": "/",
+        "method": "GET",
+        "response_time_seconds": 0.0098,
+        "cpu_usage_percent": 18.4,
+        "memory_usage_percent": 91.0
+    },
+    {
+        "timestamp": "2026-05-19 21:11:29.832759",
+        "endpoint": "/docs",
+        "method": "GET",
+        "response_time_seconds": 0.001,
+        "cpu_usage_percent": 15.7,
+        "memory_usage_percent": 91.5
+    },
+    {
+        "timestamp": "2026-05-19 21:11:30.080417",
+        "endpoint": "/openapi.json",
+        "method": "GET",
+        "response_time_seconds": 0.011,
+        "cpu_usage_percent": 25.2,
+        "memory_usage_percent": 92.1
+    },
+    {
+        "timestamp": "2026-05-19 21:11:33.831694",
+        "endpoint": "/monitoring",
+        "method": "GET",
+        "response_time_seconds": 0.001,
+        "cpu_usage_percent": 11.2,
+        "memory_usage_percent": 91.7
+    }
+]

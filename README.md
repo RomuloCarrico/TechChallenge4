@@ -72,7 +72,7 @@ TechChallenge/
 │   └── train.py
 │
 ├── requirements.txt
-└── venv/
+└── render.yaml
 ```
 
 ---
